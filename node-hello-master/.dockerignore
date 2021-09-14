@@ -1,0 +1,2 @@
+docker build -t tranduc123/sept-takehome2 ..\node-hello-master\
+docker run tranduc123/sept-takehome2 --name=takehome2
